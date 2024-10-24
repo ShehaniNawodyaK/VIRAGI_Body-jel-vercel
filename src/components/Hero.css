@@ -1,0 +1,11 @@
+.hero {
+    background-image: url('https://www.google.com/imgres?q=aloe%20vera%20tree%20image%20jpg&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fvibrant-green-aloe-vera-plant-against-white-background-composition-minimalistic-modern-aloe-vera-plant-324089314.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Faloe-vera-plant.html&docid=yQah60RlJjMLuM&tbnid=2bTlFXpiUEEXgM&vet=12ahUKEwjxg7Hoy6aJAxXYSGwGHYvlK-4QM3oECBcQAA..i&w=800&h=533&hcb=2&ved=2ahUKEwjxg7Hoy6aJAxXYSGwGHYvlK-4QM3oECBcQAA');
+    background-size: cover; /* Cover the entire area */
+    background-position: center; /* Center the image */
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(165, 232, 196); /* Make text white for visibility */
+}
+
